@@ -32,14 +32,16 @@ Over the next term, we'll consider worship: why we worship, how we worship, and 
 
 ## Topics Covered
 
-### [Introduction: Why do we worship? What is worship?](1.md)
+### Introduction: Why do we worship? What is worship?
 
+[Notes](1.md)
 [Worksheet](1 Handout.md)
 
 We look at these closely related questions in some detail. We cover common answers to these questions and their strengths and weaknesses. We'll settle on answers to both, and use those answers to frame the rest of the term.
 
-### [A Biblical Theology of Worship](2.md)
+### A Biblical Theology of Worship
 
+[Notes](2.md)
 [Worksheet](2 Handout.md)
 
 We look at worship and related ideas as they occur in the story of Scripture. More than a word study, we'll trace the theme of worship and how it shapes our understanding of creation, the fall, God's promises, and their fulfillment in Jesus.
