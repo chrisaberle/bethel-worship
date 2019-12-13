@@ -1,20 +1,20 @@
 #  Course Outline
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC -->
 
 - [Course Outline](#course-outline)
-	- [Purpose](#purpose)
-	- [Topics Covered](#topics-covered)
-		- [[Introduction: Why do we worship? What is worship?](1.md)](#introduction-why-do-we-worship-what-is-worship1md)
-		- [[A Biblical Theology of Worship](2.md)](#a-biblical-theology-of-worship2md)
-		- [The Lord's Day](#the-lords-day)
-		- [Levitical and Temple Worship Patterns](#levitical-and-temple-worship-patterns)
-		- [The Three Spheres of Worship](#the-three-spheres-of-worship)
-		- [The Regulative Principle of Worship](#the-regulative-principle-of-worship)
-		- [The Elements of Worship](#the-elements-of-worship)
-		- [The Sacraments and Worship](#the-sacraments-and-worship)
-		- [The Church Calendar](#the-church-calendar)
-		- [Bethel's Liturgy](#bethels-liturgy)
+  - [Purpose](#purpose)
+  - [Topics Covered](#topics-covered)
+    - [Introduction: Why do we worship? What is worship?](#introduction-why-do-we-worship-what-is-worship)
+    - [A Biblical Theology of Worship](#a-biblical-theology-of-worship)
+    - [The Lord's Day](#the-lords-day)
+    - [Levitical and Temple Worship Patterns](#levitical-and-temple-worship-patterns)
+    - [The Three Spheres of Worship](#the-three-spheres-of-worship)
+    - [The Regulative Principle of Worship](#the-regulative-principle-of-worship)
+    - [The Elements of Worship](#the-elements-of-worship)
+    - [The Sacraments and Worship](#the-sacraments-and-worship)
+    - [The Church Calendar](#the-church-calendar)
+    - [Bethel's Liturgy](#bethels-liturgy)
 
 <!-- /TOC -->
 
