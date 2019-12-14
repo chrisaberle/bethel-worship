@@ -34,8 +34,8 @@ Over the next term, we'll consider worship: why we worship, how we worship, and 
 
 ### Introduction: Why do we worship? What is worship?
 
-[Notes](1.md)
-[Worksheet](1 Handout.md)
+[Notes](1.md)</br>
+[Worksheet](1_Handout.md)
 
 We look at these closely related questions in some detail. We cover common answers to these questions and their strengths and weaknesses. We'll settle on answers to both, and use those answers to frame the rest of the term.
 
