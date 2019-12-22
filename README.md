@@ -46,12 +46,12 @@ We look at these closely related questions in some detail. We cover common answe
 
 We look at worship and related ideas as they occur in the story of Scripture. More than a word study, we'll trace the theme of worship and how it shapes our understanding of creation, the fall, God's promises, and their fulfillment in Jesus.
 
-### Levitical and Temple Worship Patterns
+### Biblical Theology: Temple
 
 [Notes](3.md)  
 [Worksheet](3_Handout.md)
 
-We cover the sacrifices outlined in Leviticus 1-9, how they connect to temple and synagogue worship, and how the New Testament teaches us to think about them today. We also cover some of the conversation between the Reformed tradition and Anglican and Lutheran traditions regarding temple worship in the New Covenant.
+We examine the similarities between Eden and Israel's places of worship. We connect these symbols to their fulfillment in Jesus, as well as their implications for the church as pictured in Ezekiel 40 and Revelation 21-22. 
 
 ### The Lord's Day
 

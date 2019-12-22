@@ -1,4 +1,4 @@
-# 3: Temple
+# 3: Biblical Theology of Worship – Temple
 
 ## Review
 
