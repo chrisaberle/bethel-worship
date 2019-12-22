@@ -24,32 +24,32 @@ _Exercise:_ Here are some common answers to the question of why we come together
 
 1. Sunday Worship is for **evangelism**.
 
-<br>
-<br>
+<br />
+<br />
 
 2. Sunday Worship is for the **education** of the church.
 
-<br>
-<br>
+<br />
+<br />
 
 3. Sunday Worship is meant to **encourage** and build up the church.
 
-<br>
-<br>
+<br />
+<br />
 
 4. Sunday Worship is for the praise and **exaltation** of God.
 
-<br>
-<br>
+<br />
+<br />
 
 ## What are we doing? Why are we doing it?
 
 _Exercise:_ Spend some time thinking through Bethel's own worship service. How is our service divided? Why do we divide it up this way? For major elements like music or preaching, how do we differ from other PCA churches and churches in our community? What does this say about our values and priorities?
 
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
 
 ## Common Errors
 
@@ -59,29 +59,29 @@ Note: Each of these emphases is still an important part of a worship service. Wh
 
 1. Sunday Worship is for **Evangelism**
 
-<br>
-<br>
+<br />
+<br />
 
 2. Sunday Worship is for **Education**
 
-<br>
-<br>
+<br />
+<br />
 
 3. Sunday Worship as **Experience**
 
-<br>
-<br>
+<br />
+<br />
 
 4. Sunday Worship is for **Exaltation** of God
 
-<br>
-<br>
+<br />
+<br />
 
 ## Takeaways
 
 What are some of your takeaways from the lesson today?
 
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />

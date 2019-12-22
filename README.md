@@ -7,8 +7,8 @@
   - [Topics Covered](#topics-covered)
     - [Introduction: Why do we worship? What is worship?](#introduction-why-do-we-worship-what-is-worship)
     - [A Biblical Theology of Worship](#a-biblical-theology-of-worship)
-    - [The Lord's Day](#the-lords-day)
     - [Levitical and Temple Worship Patterns](#levitical-and-temple-worship-patterns)
+    - [The Lord's Day](#the-lords-day)
     - [The Three Spheres of Worship](#the-three-spheres-of-worship)
     - [The Regulative Principle of Worship](#the-regulative-principle-of-worship)
     - [The Elements of Worship](#the-elements-of-worship)
@@ -34,25 +34,28 @@ Over the next term, we'll consider worship: why we worship, how we worship, and 
 
 ### Introduction: Why do we worship? What is worship?
 
-[Notes](1.md) </br>
-[Worksheet](1_Handout.md)
+[Notes](1.md)  
+[Worksheet](1_Handout.md)  
 
 We look at these closely related questions in some detail. We cover common answers to these questions and their strengths and weaknesses. We'll settle on answers to both, and use those answers to frame the rest of the term.
 
 ### A Biblical Theology of Worship
 
-[Notes](2.md) </br>
+[Notes](2.md)  
 [Worksheet](2_Handout.md)
 
 We look at worship and related ideas as they occur in the story of Scripture. More than a word study, we'll trace the theme of worship and how it shapes our understanding of creation, the fall, God's promises, and their fulfillment in Jesus.
 
+### Levitical and Temple Worship Patterns
+
+[Notes](3.md)  
+[Worksheet](3_Handout.md)
+
+We cover the sacrifices outlined in Leviticus 1-9, how they connect to temple and synagogue worship, and how the New Testament teaches us to think about them today. We also cover some of the conversation between the Reformed tradition and Anglican and Lutheran traditions regarding temple worship in the New Covenant.
+
 ### The Lord's Day
 
 This is a powerful and often under-appreciated theme in the Bible. From Genesis 1 through to Revelation God uses rest and Eden imagery as a consistent theme. We'll explore this theme, as well as the switch from Saturday to Sunday that occurred in the first century.
-
-### Levitical and Temple Worship Patterns
-
-We cover the sacrifices outlined in Leviticus 1-9, how they connect to temple and synagogue worship, and how the New Testament teaches us to think about them today. We also cover some of the conversation between the Reformed tradition and Anglican and Lutheran traditions regarding temple worship in the New Covenant.
 
 ### The Three Spheres of Worship
 

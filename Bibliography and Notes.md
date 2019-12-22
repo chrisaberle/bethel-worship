@@ -9,3 +9,6 @@ The Bible Project, [_The Covenants_](https://thebibleproject.com/explore/covenan
 https://www.chabad.org/parshah/article_cdo/aid/4461061/jewish/The-Book-of-Deuteronomy-Renewal-of-the-Sinai-Covenant.htm
 
 https://silouanthompson.net/2007/09/first-century-christian-synagogue-liturgy/
+
+Gregory K. Beale, _EDEN, THE TEMPLE, AND THE CHURCH’S
+MISSION IN THE NEW CREATION_. https://www.etsjets.org/files/JETS-PDFs/48/48-1/48-1-pp005-031_JETS.pdf

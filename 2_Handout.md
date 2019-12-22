@@ -15,8 +15,8 @@ Man's chief end is twofold, and the errors we cover last week tend to emphasize 
 
 _Exercise: We ended last week with an assignment to come up with our own answers to this question. What did you decide?_
 
-</br>
-</br>
+<br />
+<br />
 
 ##  Definitions
 
@@ -68,28 +68,28 @@ _Exercise: Write down how the pattern above can be seen in [Genesis 2](https://b
 
 1. How does God initiate or **take hold**?
 <!-- God takes hold of the earth he has created. -->
-</br>
-</br>
+<br />
+<br />
 
 2. What does God **separate**? What **new thing** does he make?
 <!-- He separates dust from dust and breathes life into the dust. -->
-</br>
-</br>
+<br />
+<br />
 
 3. What does God **speak**? What does he stipulate?
 <!-- He puts Adam into the garden to cultivate and keep it, and tells him not to eat from the Tree of the Knowledge of Good and Evil. -->
-</br>
-</br>
+<br />
+<br />
 
 4. What are the **signs**, **seals**, or **rituals** of this covenant?
 <!-- The two trees, a meal, representing life of obedience and death of disobedience. -->
-</br>
-</br>
+<br />
+<br />
 
 5. How does God arrange for the **future** succession of this covenant?
 <!-- He creates Eve and gives them an additional blessing. -->
-</br>
-</br>
+<br />
+<br />
 
 ### The Mosaic Covenant
 
@@ -99,28 +99,28 @@ _Exercise: Write down how the pattern above can be seen in the Sinai narrative, 
 
 1. How does God initiate or **take hold**?
 <!-- He takes hold of his people in slavery and bondage. -->
-</br>
-</br>
+<br />
+<br />
 
 2. What does God **separate**? What **new** **thing** does he make?
 <!-- He separates them from Egypt, separates the Red Sea, gives them a new name (Israel), gives himself a new name (Yahweh). -->
-</br>
-</br>
+<br />
+<br />
 
 3. What does God **speak**? What does he stipulate?
 <!-- The law, obvs. -->
-</br>
-</br>
+<br />
+<br />
 
 4. What are the **signs**, **seals**, or **rituals** of this covenant?
 <!-- Tabernacle, priesthood, Levitical system, Passover. -->
-</br>
-</br>
+<br />
+<br />
 
 5. How does God arrange for the **future** succession of this covenant?
 <!-- Deut 32-34, the blessings and curses. -->
-</br>
-</br>
+<br />
+<br />
 
 ### The New Covenant
 
@@ -130,29 +130,32 @@ _Exercise: Write down how this pattern fits the New Covenant. Also think about m
 
 1. How does God initiate or **take hold**?
 <!-- He takes on human flesh. -->
-</br>
-</br>
+<br />
+<br />
 
 2. What does God **separate**? What **new** **thing** does he make?
 <!-- Jesus suffers the separation of death, but becomes the New Adam and a new King. -->
-</br>
-</br>
+<br />
+<br />
 
 3. What does God **speak**? What does he stipulate?
 <!-- The whole New Testament, basically. Also, "love one another." -->
-</br>
-</br>
+<br />
+<br />
 
 4. What are the **signs**, **seals**, or **rituals** of this covenant?
 <!-- Baptism, The Lord's Supper. -->
-</br>
-</br>
+<br />
+<br />
 
 5. How does God arrange for the **future** succession of this covenant?
 <!-- The Great Commission. -->
-</br>
-</br>
+<br />
+<br />
 
 ## Takeaways
 
 Write down two new things you learned or "Aha!" moments that you had from the discussion this week.
+
+<br />
+<br />
