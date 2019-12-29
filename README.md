@@ -53,7 +53,10 @@ We look at worship and related ideas as they occur in the story of Scripture. Mo
 
 We examine the similarities between Eden and Israel's places of worship. We connect these symbols to their fulfillment in Jesus, as well as their implications for the church as pictured in Ezekiel 40 and Revelation 21-22. 
 
-### The Lord's Day
+### Sabbath and The Lord's Day
+
+[Notes](4.md)  
+[Worksheet](4_Handout.md)
 
 This is a powerful and often under-appreciated theme in the Bible. From Genesis 1 through to Revelation God uses rest and Eden imagery as a consistent theme. We'll explore this theme, as well as the switch from Saturday to Sunday that occurred in the first century.
 
