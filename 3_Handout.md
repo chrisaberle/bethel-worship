@@ -2,7 +2,7 @@
 
 ## Review
 
-Last week we covered a pattern for characterizing covenants. 
+Last week we covered a pattern for characterizing covenants.
 
 1. God initiates, **taking hold** of something.
 2. God **separates** and makes **something new**.
@@ -21,30 +21,30 @@ We connected these categories to divisions in our own worship service: **Call to
 >Now when the sun was going down, a deep sleep fell upon Abram; and behold, terror and great darkness fell upon him. God said to Abram, “Know for certain that your descendants will be strangers in a land that is not theirs, where they will be enslaved and oppressed four hundred years. “But I will also judge the nation whom they will serve, and afterward they will come out with many possessions. “As for you, you shall go to your fathers in peace; you will be buried at a good old age. “Then in the fourth generation they will return here, for the iniquity of the Amorite is not yet complete.”
 
 >It came about when the sun had set, that it was very dark, and behold, there appeared a smoking oven and a flaming torch which passed between these pieces.
-      
+
 >On that day the LORD made a covenant with Abram, saying,
-            
+
 >“To your descendants I have given this land,
     From the river of Egypt as far as the great river, the river Euphrates: the Kenite and the Kenizzite and the Kadmonite and the Hittite and the Perizzite and the Rephaim and the Amorite and the Canaanite and the Girgashite and the Jebusite.”
-    
+
 What is going on with the animals?
 
 <br />
 <br />
 
-But does Abraham make this covenant? 
+But does Abraham make this covenant?
 
 <br />
 <br />
 
-When in the Bible is God split in two? 
+When in the Bible is God split in two?
 
 <br />
 <br />
 
 ## Temple
 
-Key texts: 
+Key texts:
 
 1. Genesis 1-2
 2. Exodus 25-31, Exodus 35-40
@@ -97,7 +97,7 @@ _Exercise:_ Draw a picture of the Garden, the Tabernacle, and the Temple.
 <br />
 <br />
 
-5. Where is the garden? Where is the water that comes from the throne and waters the earth? 
+5. Where is the garden? Where is the water that comes from the throne and waters the earth?
 
 <br />
 <br />

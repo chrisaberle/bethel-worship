@@ -7,10 +7,10 @@ Last week we talked about temple and traced its development in the Bible. It is 
 1. Eden is a **temple**.
 2. Noah, Abraham, Jacob and Moses all meet God on **mountains**.
 3. **Solomon's** **Temple** replaces the tabernacle and builds on the Eden imagery.
-4. Nehemiah rebuilds the **Temple**, but its power and God's presence are diminished. 
-5. God's presence returns in the person of Jesus. 
-6. At **Pentecost**, God's presence indwells his people. 
-7. In Revelation the **New Heavens and Earth** are depicted as a new Eden. 
+4. Nehemiah rebuilds the **Temple**, but its power and God's presence are diminished.
+5. God's presence returns in the person of Jesus.
+6. At **Pentecost**, God's presence indwells his people.
+7. In Revelation the **New Heavens and Earth** are depicted as a new Eden.
 
 ## Creation
 

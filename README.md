@@ -7,8 +7,8 @@
   - [Topics Covered](#topics-covered)
     - [Introduction: Why do we worship? What is worship?](#introduction-why-do-we-worship-what-is-worship)
     - [A Biblical Theology of Worship](#a-biblical-theology-of-worship)
-    - [Levitical and Temple Worship Patterns](#levitical-and-temple-worship-patterns)
-    - [The Lord's Day](#the-lords-day)
+    - [Biblical Theology: Temple](#biblical-theology-temple)
+    - [Sabbath and The Lord's Day](#sabbath-and-the-lords-day)
     - [The Three Spheres of Worship](#the-three-spheres-of-worship)
     - [The Regulative Principle of Worship](#the-regulative-principle-of-worship)
     - [The Elements of Worship](#the-elements-of-worship)
@@ -51,12 +51,14 @@ We look at worship and related ideas as they occur in the story of Scripture. Mo
 [Notes](3.md)  
 [Worksheet](3_Handout.md)
 
-We examine the similarities between Eden and Israel's places of worship. We connect these symbols to their fulfillment in Jesus, as well as their implications for the church as pictured in Ezekiel 40 and Revelation 21-22. 
+We examine the similarities between Eden and Israel's places of worship. We connect these symbols to their fulfillment in Jesus, as well as their implications for the church as pictured in Ezekiel 40 and Revelation 21-22.
 
 ### Sabbath and The Lord's Day
 
 [Notes](4.md)  
 [Worksheet](4_Handout.md)
+[Week 2 Notes](5.md)
+[Week 2 Worksheet](5_Handout.md)
 
 This is a powerful and often under-appreciated theme in the Bible. From Genesis 1 through to Revelation God uses rest and Eden imagery as a consistent theme. We'll explore this theme, as well as the switch from Saturday to Sunday that occurred in the first century.
 

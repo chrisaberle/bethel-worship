@@ -62,7 +62,7 @@ We don't have time to walk through all five generally recognized covenants today
 
 ### The Covenant of Works
 
-This is God's first covenant, with Adam. This is not an explicit covenant but is still widely recognized to be one. 
+This is God's first covenant, with Adam. This is not an explicit covenant but is still widely recognized to be one.
 
 _Exercise: Write down how the pattern above can be seen in [Genesis 2](https://biblehub.com/p/nas/heb/genesis/2.shtml):_
 
@@ -124,7 +124,7 @@ _Exercise: Write down how the pattern above can be seen in the Sinai narrative, 
 
 ### The New Covenant
 
-Finally, we'll consider how this all works in the New Covenant. 
+Finally, we'll consider how this all works in the New Covenant.
 
 _Exercise: Write down how this pattern fits the New Covenant. Also think about major parts of Bethel's worship service and write down where you think they go._
 
