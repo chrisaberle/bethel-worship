@@ -56,8 +56,8 @@ We examine the similarities between Eden and Israel's places of worship. We conn
 ### Sabbath and The Lord's Day
 
 [Notes](4.md)  
-[Worksheet](4_Handout.md)
-[Week 2 Notes](5.md)
+[Worksheet](4_Handout.md)  
+[Week 2 Notes](5.md)  
 [Week 2 Worksheet](5_Handout.md)
 
 This is a powerful and often under-appreciated theme in the Bible. From Genesis 1 through to Revelation God uses rest and Eden imagery as a consistent theme. We'll explore this theme, as well as the switch from Saturday to Sunday that occurred in the first century.
