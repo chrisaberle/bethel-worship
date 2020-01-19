@@ -64,10 +64,12 @@ This is a powerful and often under-appreciated theme in the Bible. From Genesis 
 
 ### The Three Spheres of Worship
 
-[Notes](6.md)
-[Worksheet](6_Handout.md)
+[Notes](6.md)  
+[Worksheet](6_Handout.md)  
+[Week 2 Notes](7.md)  
+[Week 2 Worksheet](7_Handout.md)  
 
-It's possible to think of worship three ways — individual worship, family worship, and corporate worship. This term focuses on corporate worship because of it's connection to our mission statement, but we touch on all three spheres and some of the relevant Biblical texts for each.
+It's possible to think of worship three ways — individual worship, family worship, and corporate worship. This term focuses on corporate worship because of it's connection to our mission statement, but we touch on all three spheres and the part they play in a worshipful life.
 
 ### The Regulative Principle of Worship
 
