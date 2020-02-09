@@ -73,9 +73,15 @@ It's possible to think of worship three ways — individual worship, family wors
 
 ### The Regulative Principle of Worship
 
+[Notes](8.md)  
+[Worksheet](8_Handout.md)  
+
 One of the major contributions of the Reformation period to worship was the development of the Regulative Principle. Even though it's a well-recognized term, how to define and apply it is a matter of difference in Reformed churches. We cover these issues and where to place Bethel in the discussion.
 
 ### The Elements of Worship
+
+[Notes](9.md)
+[Worksheet](9_Handout.md)
 
 The Regulative Principle distinguishes between Elements, Form, and Context in worship, and regulates mostly the Elements. We discuss the Elements described in Reformed confessional tradition.
 
