@@ -80,7 +80,7 @@ One of the major contributions of the Reformation period to worship was the deve
 
 ### The Elements of Worship
 
-[Notes](9.md)
+[Notes](9.md)  
 [Worksheet](9_Handout.md)
 
 The Regulative Principle distinguishes between Elements, Form, and Context in worship, and regulates mostly the Elements. We discuss the Elements described in Reformed confessional tradition.
