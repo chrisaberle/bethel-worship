@@ -12,7 +12,7 @@
     - [The Three Spheres of Worship](#the-three-spheres-of-worship)
     - [The Regulative Principle of Worship](#the-regulative-principle-of-worship)
     - [The Elements of Worship](#the-elements-of-worship)
-    - [The Sacraments and Worship](#the-sacraments-and-worship)
+    - [Early Christian Liturgies](#early-christian-liturgies))
     - [The Church Calendar](#the-church-calendar)
     - [Bethel's Liturgy](#bethels-liturgy)
 
@@ -85,9 +85,12 @@ One of the major contributions of the Reformation period to worship was the deve
 
 The Regulative Principle distinguishes between Elements, Form, and Context in worship, and regulates mostly the Elements. We discuss the Elements described in Reformed confessional tradition.
 
-### The Sacraments and Worship
+### Early Christian Liturgies
 
-We cover the sacraments and their place in corporate worship services. We especially consider the Eucharist: how it is prefigured in the Old Covenants, it's place in corporate worship in the New Covenant, and it's place in the New Heavens and Earth.
+[Notes](10.md)  
+[Worksheet](10_Handout.md)  
+
+We talk about the earliest Christian liturgies, the forms they imitated, and the innovations they introduced. We consider the particular emphasis they placed on Communion and table fellowship.
 
 ### The Church Calendar
 
