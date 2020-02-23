@@ -13,7 +13,7 @@
     - [The Regulative Principle of Worship](#the-regulative-principle-of-worship)
     - [The Elements of Worship](#the-elements-of-worship)
     - [Early Christian Liturgies](#early-christian-liturgies))
-    - [The Church Calendar](#the-church-calendar)
+    - [Levitical Sacrifices](#levitical-sacrifices)
     - [Bethel's Liturgy](#bethels-liturgy)
 
 <!-- /TOC -->
@@ -92,9 +92,12 @@ The Regulative Principle distinguishes between Elements, Form, and Context in wo
 
 We talk about the earliest Christian liturgies, the forms they imitated, and the innovations they introduced. We consider the particular emphasis they placed on Communion and table fellowship.
 
-### The Church Calendar
+### Levitical Sacrifices
 
-An overview of the Church Calendar, its origins, and arguments for and against its use. Also an overview of Israel's calendar and Paul's teaching on its continued observance.
+[Notes](11.md)  
+[Worksheet](11_Handout.md)
+
+We look at the five sacrifices of Leviticus and how we might use them to inform our worship in the New Covenant.
 
 ###  Bethel's Liturgy
 
