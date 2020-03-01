@@ -14,7 +14,7 @@
     - [The Elements of Worship](#the-elements-of-worship)
     - [Early Christian Liturgies](#early-christian-liturgies))
     - [Levitical Sacrifices](#levitical-sacrifices)
-    - [Bethel's Liturgy](#bethels-liturgy)
+    - [Wrapping Up](#wrapping-up)
 
 <!-- /TOC -->
 
@@ -99,6 +99,8 @@ We talk about the earliest Christian liturgies, the forms they imitated, and the
 
 We look at the five sacrifices of Leviticus and how we might use them to inform our worship in the New Covenant.
 
-###  Bethel's Liturgy
+###  Wrapping Up
 
-With a _thorough_ backgrounding in worship, we turn to Bethel's liturgy. Piece by piece, we'll look at each element of our worship service and discuss it in light of what we've learned in previous weeks.
+[Notes](12.md)  
+
+We wrap up the term, reflecting on Sunday School in general, and reviewing key takeaways from the last several weeks.
